@@ -1,0 +1,28 @@
+.formulario{
+margin: 200px;
+}
+form{
+    
+    width: 300px;
+    height: 150px;
+    background-color: #1f3c88;
+    font-family: Verdana;
+    font-weight: bold;
+    padding: 20px;
+    color: white;
+}
+p , label{
+    
+    background-color: #1f3c88;
+}
+input{
+    background-color: white;
+}
+.boton > input{
+background-color: white;
+font-family: sans-serif;
+font-weight: bold;
+border-radius: 20px/10px;
+width: 60px;
+border-color: white;
+}
